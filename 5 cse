@@ -1,0 +1,48 @@
+<!--CSE-->
+<html>
+<head>
+<title>Computer Science Engineering</title>
+</head>
+<h2 style="color: Black; background-color:#73C6B6 " align="center" > CSE Department </h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/88/4f/c4/884fc4a9e9431fa0cf6107381ee57997.jpg"
+height="400" width="700">
+<h2 style="color: Black; background-color:#73C6B6 " align="center" > Subjects </h2>
+<p><b>C Language</b><br><br>
+<b>Java</b><br><br>
+<b>Python</b><br><br>
+<b>Data Structures & algorithms</b><br><br>
+<b>Database</b></br>
+</p>
+<h2 style="color: Black; background-color:#73C6B6 " align="center" > Tutorials </h2>
+<h2> C Language </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLf3jnHxSmU"
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
+write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> Java </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHbSopMyc4M"
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
+write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> Python </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLq6qIrraQg"
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
+write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> Data Structures & Algorithms</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xLetJpcjHS0"
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
+write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Database </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Iu45VZGQDk"
+
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
+write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</html>
