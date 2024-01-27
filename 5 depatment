@@ -1,0 +1,48 @@
+<!--DEPARTMENT-->
+<html>
+<head>
+<title>Department</title>
+</head>
+<style>li{
+cursor: pointer; margin: 15px 0;
+}
+</style>
+<body style="background-color:#D6DBDF">
+<div style="background-color: black; color: white;"
+align="center"><h2>DEPARTMENTS</h2></div>
+<div align="center">
+
+<img src="https://image.shutterstock.com/image-vector/cse-letter-logo-design-on-600w-
+2147355281.jpg" height="300" width="300" ><br>
+
+<a href="file:///C:/Users/PGLAB-001/Documents/exp53.html" align="center">Computer
+Science Engineering (CSE)</a>
+<br>
+<br>
+<img
+src="https://t4.ftcdn.net/jpg/05/48/65/99/360_F_548659945_i9QSx59orL39GlYn5CCEWknPog
+LOXiZG.jpg" height="300" width="300"><br>
+<a href="ece.html">Electronics & Communication Engineering(ECE)</a>
+<br>
+<br>
+<img
+src="https://t4.ftcdn.net/jpg/04/54/74/29/360_F_454742925_D75AFX1OTpcZGC4Xy0eEn8eX
+Lgz0R5Ud.jpg" height="300" width="300"><br>
+<a href="eee.html">Electrical and Electronics Engineering(EEE)</a>
+<br>
+<br>
+<img
+src="https://t4.ftcdn.net/jpg/03/10/18/01/360_F_310180186_1ja8bloz2MCMdvcoCPreJd94fcDh
+BkO2.jpg" height="300" width="300"><br>
+<a href=ce.html">Civil Engineering(CE)</a>
+<br>
+<br>
+<img
+src="https://t3.ftcdn.net/jpg/03/77/61/74/360_F_377617489_DRseL6RtjouRyVb5mjlYPy0L9q
+mmr9Bv.jpg" height="300" width="300"><br>
+<a href="me.html">Mechanical Engineering(ME)</a>
+<br>
+<br>
+</div>
+</body>
+</html>
