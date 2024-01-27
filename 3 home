@@ -1,0 +1,23 @@
+<!--home.html-->
+<!DOCTYPE html>
+<html>
+<head>
+<title> Home Page
+</title>
+</head>
+
+<div align="center"><img src="https://www.gprec.ac.in/wp-
+content/uploads/2019/05/gprec_logo1.png" width:20% height:20%>
+
+<h2 style="color:blue" align="center"> GPREC Home Page</h2>
+<div style="background-color:Lightskyblue">&emsp;<a href="home.html">Home<a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="register.html">Register</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="login.html">Sign in</a><br><br>
+</div>
+<div align="center">
+
+<img src="https://cache.careers360.mobi/media/article_images/2021/11/3/featured-image-g-
+pulla.jpg" width="1200" height="500">
+
+</div>
+</div>
+</html>
