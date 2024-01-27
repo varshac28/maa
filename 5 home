@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>GPREC</title>
+</head>
+<style>
+.nav-1{ float: right;
+margin-right:20px;padding:20px;
+}
+.img1 span{
+margin-top:10px;
+}
+</style>
+<div align="left" style="background-color:#0e044a";>
+<center style="margin:15px; color:#e8933f"><h2>G PULLA REDDY ENGINEERING
+COLLEGE<br>(AUTONOMOUS)</h2></center>
+<span class=img1>
+<img src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png"></span>
+<nav class=nav-1>
+&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/PGLAB-001/Documents/exp5.html"
+style="color:#e8933f";>Home</a>
+&emsp;&emsp;&emsp;&emsp;<a href="file:///C:/Users/PGLAB-001/Documents/exp52.html"
+style="color:#e8933f";>Department</a>
+</nav>
+</div>
+
+<img src="https://getmyuni.azureedge.net/college-image/big/g-pulla-reddy-engineering-
+college-gprec-kurnool.jpg" height="600" width="2000">
+
+</html>
