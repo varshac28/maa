@@ -1,31 +1,28 @@
-<!--Register.html-->
 <html>
 <head>
-<title> Registration Page </title>
+<title>Registration Page</title>
 </head>
-<body bgcolor="white">
-<br>
-<br>
+<body bgcolor="white"><br><br>
 <body>
 <div align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img
-src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png" width:20%
-height:20%>
+src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h2 align="center" style="color:blue">&emsp;&emsp;&emsp;&emsp;Welcome to GPREC
+<h2 align="center" style="color:blue">&emsp;&emsp;&emsp;&emsp;Welcome to
+GPREC
 <br>&emsp;&emsp;&emsp;&emsp;Student Registration</h1></h2></div>
-<p align="center">&emsp;&emsp;&emsp;&emsp;&emsp;Please fill in this form to create an
-account.</p>
+<p align="center">&emsp;&emsp;&emsp;&emsp;&emsp;Please fill in this form to
+create an account.</p>
 <div class="reg">
 <label> Firstname:&emsp;</label>
 <input type="text" placeholder="Sreebha" name="firstname" size="25"/> <br><br>
 <label> Middlename:</label>
-<input type="text" placeholder="Prabha Sree" name="middlename" size="25"/> <br><br>
+<input type="text" placeholder="Prabha Sree" name="middlename" size="25"/>
+<br><br>
 <label> Lastname:&emsp;</label>
 <input type="text" placeholder="Bhumireddy" name="lastname" size="25"/><br><br>
 <label> Date of Birth:</label>
 <input type="text" placeholder="02/08/2002" name="dob" size="25"/> <br><br>
-<label>Course :
-</label>
+<label>Course : </label>
 <select required>
 <option value="Course">Course</option>
 <option value="CSS">CSS</option>
@@ -50,42 +47,26 @@ account.</p>
 <input type="text" placeholder="1234567890" size="10"/> <br> <br>Address :
 <input type="Address" placeholder="Kurnool"> <br>
 <br> <br>Email:
-<input type="email" placeholder="sreebhaxxxxxx@gmail.com" name="email" id="email">
+<input type="email" placeholder="sreebhaxxxxxx@gmail.com" name="email"
+id="email">
 <br> <br> <br>Password:
-<input type="Password" placeholder="shree@02"> <br> <br> <option
-value="HTML">HTML</option>
-<option value="Java">Java</option>
-<option value="Java Script">Java Script</option>
-<option value="Python">Python</option>
-<option value="SQL">SQL</option>
-</select>
-<br>
-<br>
-<label> Gender :
-</label><br>
-<input type="radio" name="male"/> Male <br>
-<input type="radio" name="female"/> Female <br>
-<input type="radio" name="other"/> Other
-<br>
-<br>
-<label>Phone :
-</label>
-<input type="text" value="+91" size="2" />
-<input type="text" placeholder="1234567890" size="10"/> <br> <br>Address :
-<input type="Address" placeholder="Kurnool"> <br>
-<br> <br>Email:
-<input type="email" placeholder="sreebhaxxxxxx@gmail.com" name="email" id="email">
-<br> <br> <br>Password:
-<input type="Password" placeholder="shree@02"> <br> <br> <br>Confirm password:
-<input type="Password" placeholder="shree@02"> <br> <br> <br>
-<p align="left"><a href="login.html"> <button>Register</button> </a><br>
-<p align="right"><a href="home.html"><button>Cancel</button> <br><br></a> </p>
+<input type="Password" placeholder="shree@02"> <br> <br>
+<br>Confirm password:
+<input type="Password" placeholder="shree@02"> <br> <br>
+<p align="left"><a href="file:///C:/Users/PGLAB-001/Desktop/Expt31.html">
+<button>Register</button> </a><br>
+
+<p align="right"><a href="file:///C:/Users/PGLAB-
+001/Desktop/Expt3.html"><button>Cancel</button> <br><br></a> </p>
+
 <div align="center" class="container signin">
-<p>Already have an account? <a href="login.html">Sign in</a>.</p>
+
+<p>Already have an account? <a href="file:///C:/Users/PGLAB-
+001/Desktop/Expt31.html">Sign in</a>.</p>
+
 </div>
 </form>
 </body>
-</html>
 <style>body {
 margin: 0;
 padding: 0;
@@ -99,3 +80,4 @@ width: 325px;
 overflow: hidden;margin: auto;
 margin: 20 0 0 445px; padding: 80px; background: LightGray;border-radius: 10px ;
 }
+</html>
